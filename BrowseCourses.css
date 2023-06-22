@@ -1,0 +1,27 @@
+.blue-bg{
+    background-color: #754ffe;
+    padding:  1.9rem 0 !important;
+}
+.text-white{
+   color: #fff; 
+   font-weight: 600;
+line-height: 1.2;
+}
+.bg-body{
+    background-color: #f1f5f9 !important;
+   padding: 1.6rem 0;
+}
+.displaingCourses{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.btn-grid{
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.btn-list{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
